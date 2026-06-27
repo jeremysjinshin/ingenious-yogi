@@ -559,6 +559,9 @@ function Support() {
           style={{ display: 'inline-block', padding: '16px 48px', background: '#C87941', color: '#FFFFFF', fontFamily: 'Jost, sans-serif', fontSize: '14px', letterSpacing: '0.12em', textTransform: 'uppercase', textDecoration: 'none', borderRadius: '2px' }}>
           Be an Angel
         </a>
+        <p style={{ fontFamily: 'Cormorant Garamond, serif', fontSize: '16px', fontStyle: 'italic', color: '#5A5047', marginTop: '20px' }}>
+          "Do not forget to do good and to share with others." ~ Hebrews 13:16
+        </p>
 
         <div style={{ marginTop: '48px', textAlign: 'left', borderTop: '1px solid #E8DDD0', paddingTop: '32px' }}>
           <p style={{ fontFamily: 'Jost, sans-serif', fontSize: '12px', fontWeight: 600, letterSpacing: '0.14em', textTransform: 'uppercase', color: '#B8963E', marginBottom: '16px' }}>
@@ -872,6 +875,9 @@ function ChariotOfEnlightenment() {
             }}>
             Contribute to the Chariot
           </a>
+          <p style={{ fontFamily: 'Cormorant Garamond, serif', fontSize: '16px', fontStyle: 'italic', color: '#5A5047', marginTop: '20px' }}>
+            "It is more blessed to give than to receive." ~ Acts 20:35
+          </p>
           <p style={{ fontFamily: 'Jost, sans-serif', fontSize: '12px', color: '#9A8A7A', marginTop: '16px', fontStyle: 'italic' }}>
             Pay what you feel. The cosmos is watching.
           </p>

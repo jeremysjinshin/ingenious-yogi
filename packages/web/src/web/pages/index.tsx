@@ -729,17 +729,17 @@ function SpiritualName() {
 function ChariotOfEnlightenment() {
   const tiers = [
     {
-      amount: '$10',
+      amount: '$500',
       title: 'The Long-Distance High Five',
       description: 'Swami J will direct a focused beam of radiant loving-kindness toward your general direction immediately after the funds clear, from wherever he happens to be on the dirt roads of Kampot. You\'ll totally feel it.',
     },
     {
-      amount: '$50',
+      amount: '$1,000',
       title: 'The Sharpie of Eternal Gratitude',
       description: 'Receive everything above and your normal name, or your cosmically aligned spiritual name, will be hand-written by Swami J in permanent marker on the interior ceiling of the Chariot of Vibrational Enlightenment. You\'ll always be along for the ride.',
     },
     {
-      amount: '$250',
+      amount: '$2,000',
       title: 'The Golden Passenger Status',
       description: 'Receive everything above and three days of unlimited rides if you ever find yourself in the peppercorn capital of the world looking to spice up your life. Includes complimentary coconut water and unprompted life advice from Swami J, whether you want it or not.',
     },
